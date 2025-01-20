@@ -1,0 +1,12 @@
+﻿global using Core.Entities;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore;
+global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using Core.Enums;
+global using Core.Interfaces;
+global using Hangfire;
+global using Infrastructure.Data;
